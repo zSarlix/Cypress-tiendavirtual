@@ -1,0 +1,1 @@
+Se crea la rama prueba_historia2 para realizar el desarrollo de la HU2

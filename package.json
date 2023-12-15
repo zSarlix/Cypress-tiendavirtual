@@ -1,0 +1,14 @@
+{
+  "name": "pruebas-automaticas-swaglabs",
+  "version": "1.0.0",
+  "description": "Pruebas tienda virtual Swaglabs",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  }
+}
